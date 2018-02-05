@@ -38,6 +38,7 @@
 		50FF353E2029172400B87DB6 = {
 			isa = PBXGroup;
 			children = (
+				50FF35512029172400B87DB6 /* Assets.xcassets */,
 				50FF35492029172400B87DB6 /* Hello World */,
 				50FF35482029172400B87DB6 /* Products */,
 			);
@@ -57,7 +58,6 @@
 				50FF354A2029172400B87DB6 /* AppDelegate.swift */,
 				50FF354C2029172400B87DB6 /* ViewController.swift */,
 				50FF354E2029172400B87DB6 /* Main.storyboard */,
-				50FF35512029172400B87DB6 /* Assets.xcassets */,
 				50FF35532029172400B87DB6 /* LaunchScreen.storyboard */,
 				50FF35562029172400B87DB6 /* Info.plist */,
 			);
